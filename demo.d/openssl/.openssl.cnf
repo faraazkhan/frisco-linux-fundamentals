@@ -4,7 +4,7 @@ default_md = sha256
 distinguished_name = dn
 req_extensions = req_ext
 [dn]
-CN=example.com
+CN=friscomasjid.com
 [req_ext]
 subjectAltName=@alt_names
 [alt_names]
